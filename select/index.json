@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ルル",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-23T08:25:34.927389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルル",
+      "artist": "双葉杏",
+      "has_synced": true,
+      "path": "select/01_ルル_双葉杏.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルル",
+      "artist": "双葉杏(CV.五十嵐裕美)",
+      "has_synced": true,
+      "path": "select/02_ルル_双葉杏(CV.五十嵐裕美).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ルル",
+      "artist": "YAKUSHIMARU Etsuko",
+      "has_synced": true,
+      "path": "select/03_ルル_YAKUSHIMARU_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ルル",
+      "artist": "やくしまるえつこ",
+      "has_synced": true,
+      "path": "select/04_ルル_やくしまるえつこ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ルル (off vocal ver",
+      "artist": "やくしまるえつこ",
+      "has_synced": false,
+      "path": "select/05_ルル_(off_vocal_ver_やくしまるえつこ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ルル (tv-size)",
+      "artist": "やくしまるえつこ",
+      "has_synced": false,
+      "path": "select/06_ルル_(tv-size)_やくしまるえつこ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ルル",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_ルル_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ルル(tv-size)",
+      "artist": "やくしまるえつこ",
+      "has_synced": false,
+      "path": "select/08_ルル(tv-size)_やくしまるえつこ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ルル",
+      "artist": "やくしまるえつこ",
+      "has_synced": true,
+      "path": "select/09_ルル_やくしまるえつこ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ルル(off vocal ver.)",
+      "artist": "やくしまるえつこ",
+      "has_synced": false,
+      "path": "select/10_ルル(off_vocal_ver.)_やくしまるえつこ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ルル・ベル",
+      "artist": "soul'd out",
+      "has_synced": false,
+      "path": "select/11_ルル・ベル_soul'd_out.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ルル",
+      "artist": "やくしまるえつこ",
+      "has_synced": true,
+      "path": "select/12_ルル_やくしまるえつこ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ルル",
+      "artist": "双葉杏(CV:五十嵐裕美)、前川みく(CV:高森奈津美)、島村卯月(CV:大橋彩香)、小日向美穂(CV:津田美波)、安部菜々(CV:三宅麻理恵)",
+      "has_synced": true,
+      "path": "select/13_ルル_双葉杏(CV_五十嵐裕美)、前川みく(CV_高森奈津美)、島村卯月(CV_大橋彩香)、小日向美穂(CV_津田美波)、安部菜々(CV_三宅麻理恵).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ルル・ベル",
+      "artist": "SOUL’d OUT",
+      "has_synced": false,
+      "path": "select/14_ルル・ベル_SOUL’d_OUT.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ルル",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/15_ルル_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルル",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_ルル_Ado.txt"
+    }
+  ]
+}
